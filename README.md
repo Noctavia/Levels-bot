@@ -1,0 +1,3 @@
+# Levels bot 
+un bot qui fait des levels etc... 
+pour que ca marche aller dans *bot.py* et aller mettez votre token (du bot) dans `VOTRE_TOKEN` et puis voila, si vous n'avez pas python installer le sur *python.org* (je crois que c'est ca le site mdr..)
